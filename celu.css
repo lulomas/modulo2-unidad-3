@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: rgb(175, 57, 57);
+	background: #755f3d;
+	font-size:100%;
+    margin: auto;
+}
+#contenedor {
+	width: 100%;
+	background: #166e13;
+	margin-right:auto;
+	margin-left:auto;
+	
+}
+nav {
+	background: #883b25;
+	
+	width: 100%;
+}
+ul {
+	list-style-type:none;
+}
+a {
+	color:#F1F2C0;
+	text-decoration: none;
+}
+section {
+    margin-left: auto;
+	border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+}
+aside {border-top: 10px double #7350ff;
+    border-bottom: 10px double #50ffdf;
+	width: 100%;
+}
